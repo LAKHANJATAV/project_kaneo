@@ -22,12 +22,12 @@
     "@types/node": "^25.9.1",
     "@types/nodemailer": "^7.0.9",
     "nodemailer": "^7.0.13",
-    "react": "^19.2.6",
+    "react": "^19.2.7",
     "react-dom": "^19.2.6"
   },
   "devDependencies": {
     "@react-email/preview-server": "5.2.10",
-    "@types/react": "^19.2.15",
+    "@types/react": "^19.2.16",
     "@types/react-dom": "^19.2.3",
     "react-email": "5.2.10"
   }
